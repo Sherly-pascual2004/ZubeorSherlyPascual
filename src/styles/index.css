@@ -1,3 +1,4 @@
+/*NAV-BAR*/
 .nav-bar{
     background: rgb(255, 255, 255);
     display: flex;
@@ -68,7 +69,59 @@
     width: 30px;
 }
 
+
+/*CARRUSEL*/
 .carrusel{
     width: 100%;
     height: 10px;
 }
+
+/*BODY*/
+.sub1{
+    display: flex;
+    justify-content: center;
+    font-size: 190%;
+}
+
+.sub2{
+    display: flex;
+    justify-content: center;
+    font-size: 152%;
+}
+
+.mercancia{
+    margin: 3%;
+    padding: 0%;
+    display: flex;
+    justify-content: center;
+}
+.mer1{
+    word-spacing: 30px;
+    width: 240px;
+    height: 320px;
+}
+.mer2{
+    width: 240px;
+    height: 320px;
+}
+.mer3{
+    width: 240px;
+    height: 320px;
+}
+.mer4{
+    width: 240px;
+    height: 320px;
+}
+
+.sub3{
+    display: flex;
+    justify-content: center;
+    font-size: 190%;
+}
+
+.sub4{
+    display: flex;
+    justify-content: center;
+    font-size: 145%;
+}
+
